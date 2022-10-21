@@ -1,0 +1,86 @@
+
+import { GrMoney } from "react-icons/gr";
+
+
+
+const TransactionData = [
+    {
+        title: "My Investments",
+       deposit:"Deposiy - (Raymond)",
+        icon:<GrMoney />,
+        date: "@0 Sep, 2021 - 14:43:58s",
+        tId:"DPTXQbmCype",
+        amount: "25.00",
+        balance: "1,000.00",
+        fee: "25.00",
+        txDesc: "Investment",
+    },
+    {
+        title: "My Investments",
+       deposit:"Deposiy - (Raymond)",
+        icon:<GrMoney />,
+        date: "@0 Sep, 2021 - 14:43:58s",
+        tId:"DPTXQbmCype",
+        amount: "25.00",
+        balance: "1,000.00",
+        fee: "25.00",
+        txDesc: "Investment",
+    },
+    {
+        title: "My Investments",
+       deposit:"Deposiy - (Raymond)",
+        icon:<GrMoney />,
+        date: "@0 Sep, 2021 - 14:43:58s",
+        tId:"DPTXQbmCype",
+        amount: "25.00",
+        balance: "1,000.00",
+        fee: "25.00",
+        txDesc: "Investment",
+    },
+    {
+        title: "My Investments",
+       deposit:"Deposiy - (Raymond)",
+        icon:<GrMoney />,
+        date: "@0 Sep, 2021 - 14:43:58s",
+        tId:"DPTXQbmCype",
+        amount: "25.00",
+        balance: "1,000.00",
+        fee: "25.00",
+        txDesc: "Investment",
+    },
+    {
+        title: "My Investments",
+       deposit:"Deposiy - (Raymond)",
+        icon:<GrMoney />,
+        date: "@0 Sep, 2021 - 14:43:58s",
+        tId:"DPTXQbmCype",
+        amount: "25.00",
+        balance: "1,000.00",
+        fee: "25.00",
+        txDesc: "Fund deposit",
+    },
+    {
+        title: "My Investments",
+       deposit:"Deposiy - (Raymond)",
+        icon:<GrMoney />,
+        date: "@0 Sep, 2021 - 14:43:58s",
+        tId:"DPTXQbmCype",
+        amount: "25.00",
+        balance: "1,000.00",
+        fee: "25.00",
+        txDesc: "Investment",
+    },
+    {
+        title: "My Investments",
+       deposit:"Deposiy - (Raymond)",
+        icon:<GrMoney />,
+        date: "@0 Sep, 2021 - 14:43:58s",
+        tId:"DPTXQbmCype",
+        amount: "25.00",
+        balance: "1,000.00",
+        fee: "25.00",
+        txDesc: "Fund Deposit",
+    },
+  
+]
+export default TransactionData
